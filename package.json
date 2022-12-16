@@ -1,0 +1,22 @@
+{
+  "name": "cypress-basic",
+  "version": "1.0.0",
+  "description": "Primeiro estudo com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanc22/cypress-basic.git"
+  },
+  "author": "Luan Cabral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luanc22/cypress-basic/issues"
+  },
+  "homepage": "https://github.com/luanc22/cypress-basic#readme",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
